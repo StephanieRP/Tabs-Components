@@ -35,6 +35,7 @@
   padding: 15px 0;
   font-size: 18px;
   text-decoration: none;
+  transition: display 0.5s ease-in;
   color: #931d25;
 }
 .dropdown .dropdown-link:hover {
